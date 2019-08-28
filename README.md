@@ -1,3 +1,2 @@
 # hello-world
-just another repository
-hi
+this is the readme file of the project.
